@@ -1,3 +1,3 @@
 -  Hi, I’m Emir from Turkey
--  I am currently working on website development, using Html, Css and Javascript technologies.
+-  I am currently working on website development, using Html, Css , Javascript , React and Ts  technologies.
 -  I'm currently learning Python . 
