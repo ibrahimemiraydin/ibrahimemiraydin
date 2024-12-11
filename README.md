@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Emir from Turkiye</h1>
-<h3 align="center">Before everything this is my hobby not my job</h3>
 
 ###
 
@@ -14,9 +13,11 @@
  📫 How to reach me [Contact](https://ibrahimemiraydin.github.io/contact)
 </h3>
 
+<h2></h2>
+
 ###
 
-<h2 align="center">Languages and Tools</h2>
+<h3 align="center">Languages and Tools</h3>
 
 ###
 
