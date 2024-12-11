@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [ibrahimemiraydin.github.io](https://github.com/ibrahimemiraydin/ibrahimemiraydin.github.io)
 
-- 👨‍💻 All of my projects are available at **ibrahimemiraydin.github.io**
+- 👨‍💻 All of my projects are available at [**ibrahimemiraydin.github.io**](https://github.com/ibrahimemiraydin/ibrahimemiraydin.github.io)
 
 - 🌱 I’m currently learning [Python](https://www.python.org/)
 
