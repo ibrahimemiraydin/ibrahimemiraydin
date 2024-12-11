@@ -1,15 +1,17 @@
 <h1 align="center">Hi 👋, I'm Emir from Turkiye</h1>
 <h3 align="center">Before everything this is my hobby not my job</h3>
 
+###
+
 <h3 align=center>
   
-- 🔭 I’m currently working on [ibrahimemiraydin.github.io](https://github.com/ibrahimemiraydin/ibrahimemiraydin.github.io)
+ 🔭 I’m currently working on [ibrahimemiraydin.github.io](https://github.com/ibrahimemiraydin/ibrahimemiraydin.github.io)
 
-- 👨‍💻 All of my projects are available at [**ibrahimemiraydin.github.io**](https://ibrahimemiraydin.github.io)
+ 👨‍💻 All of my projects are available at [**ibrahimemiraydin.github.io**](https://ibrahimemiraydin.github.io)
 
-- 🌱 I’m currently learning [Python](https://www.python.org/)
+ 🌱 I’m currently learning [Python](https://www.python.org/)
 
-- 📫 How to reach me [Contact](https://ibrahimemiraydin.github.io/contact)
+ 📫 How to reach me [Contact](https://ibrahimemiraydin.github.io/contact)
 </h3>
 
 ###
