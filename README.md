@@ -4,9 +4,9 @@
 
 <h3 align=center>
   
- 🔭 I’m currently working on [My Website](www.emiraydin.me)
+ 🔭 I’m currently working on [My Website]([www.emiraydin.me](https://www.emiraydin.me))
 
- 👨‍💻 All of my projects are available at [**ibrahimemiraydin.github.io**](https://ibrahimemiraydin.github.io)
+ 👨‍💻 All of my projects are available at [**Emir Aydın**](https://www.emiraydin.me)
 
  🌱 I’m currently learning [Python](https://www.python.org/)
 
