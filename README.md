@@ -6,7 +6,7 @@
   
  🔭 I’m currently working on [My Website](https://www.emiraydin.me)
 
- 👨‍💻 All of my projects are available at [**Emir Aydın**](https://www.emiraydin.me)
+ 👨‍💻 All of my projects are available at here with details. [**Emir Aydın**](https://www.emiraydin.me)
 
  🌱 I’m currently learning [Python](https://www.python.org/)
 
