@@ -4,7 +4,7 @@
 
 <h3 align=center>
   
- 🔭 I’m currently working on [My Website](https://www.emiraydin.me)
+ 🔭 I’m currently working on [My Website](https://www.emiraydin.me) [![Netlify Status](https://api.netlify.com/api/v1/badges/3119724a-c7fd-497b-89a9-cf7439de909c/deploy-status)](https://app.netlify.com/sites/emiraydin/deploys)
 
  👨‍💻 All of my projects are available at here with details. [**Emir Aydın**](https://www.emiraydin.me)
 
