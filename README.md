@@ -4,13 +4,13 @@
 
 <h3 align=center>
   
- 🔭 I’m currently working on [My Website](https://www.emiraydin.me)
+ 🔭 I’m currently working on [Web Development](https://www.emiraydin.me)
 
- 👨‍💻 All of my projects are available at here with details. [**Emir Aydın**](https://www.emiraydin.me)
+ 👨‍💻 All of my projects are available at here with details. [**Emir Aydın**](https://www.emiraydin.me/portfolio)
 
  🌱 I’m currently learning [Python](https://www.python.org/)
 
- 📫 How to reach me [Contact](https://ibrahimemiraydin.github.io/contact)
+ 📫 How to reach me [Contact](https://emiraydin.me/contact)
 </h3>
 
 <h2></h2>
