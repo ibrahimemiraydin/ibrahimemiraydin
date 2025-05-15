@@ -4,11 +4,11 @@
 
 <h3 align=center>
   
- 🔭 I’m currently working on [Web Development](https://www.emiraydin.me)
+ 🔭 I’m currently working on [Game Development](https://www.emiraydin.me)
 
- 👨‍💻 All of my projects are available at here with details. [**Emir Aydın**](https://www.emiraydin.me/portfolio)
+ 👨‍💻 All of my projects are available at here with details. [**Emir Aydın**](https://www.emiraydin.me/projects)
 
- 🌱 I’m currently learning [Python](https://www.python.org/)
+ 🌱 I’m currently learning [C#](https://learn.microsoft.com/en-us/dotnet/csharp/)
 
  📫 How to reach me [Contact](https://emiraydin.me/contact)
 </h3>
