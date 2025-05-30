@@ -8,28 +8,28 @@
 
 <div style="width: 60%; max-width: 800px; margin: 0 auto;">
   <div style="display: flex; justify-content: space-between; align-items: center; margin: 12px 0;">
-    <span style="width: 40%; text-align: left;">🔭 <strong>Currently working on:</strong></span>
+    <span style="width: 100%; text-align: left;">🔭 <strong>Currently working on:</strong></span>
     <a href="https://www.emiraydin.me/blog" target="_blank" style="width: 55%; display: block;">
       <img src="https://img.shields.io/badge/＿＿Game_Development＿＿-FF7139?style=for-the-badge&logo=unity&logoColor=white&labelWidth=100" alt="Game Development" style="width: 100%;">
     </a>
   </div>
   
   <div style="display: flex; justify-content: space-between; align-items: center; margin: 12px 0;">
-    <span style="width: 40%; text-align: left;">👨‍💻 <strong>All my projects:</strong></span>
+    <span style="width: 100%; text-align: left;">👨‍💻 <strong>All my projects:</strong></span>
     <a href="https://www.emiraydin.me/projects" target="_blank" style="width: 55%; display: block;">
       <img src="https://img.shields.io/badge/＿＿Portfolio＿＿-2EA44F?style=for-the-badge&logo=github&logoColor=white&labelWidth=100" alt="Portfolio" style="width: 100%;">
     </a>
   </div>
   
   <div style="display: flex; justify-content: space-between; align-items: center; margin: 12px 0;">
-    <span style="width: 40%; text-align: left;">🌱 <strong>Currently learning:</strong></span>
+    <span style="width: 100%; text-align: left;">🌱 <strong>Currently learning:</strong></span>
     <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" style="width: 55%; display: block;">
       <img src="https://img.shields.io/badge/＿＿Advanced_C%23＿＿-239120?style=for-the-badge&logo=c-sharp&logoColor=white&labelWidth=100" alt="C#" style="width: 100%;">
     </a>
   </div>
   
   <div style="display: flex; justify-content: space-between; align-items: center; margin: 12px 0;">
-    <span style="width: 40%; text-align: left;">📫 <strong>How to reach me:</strong></span>
+    <span style="width: 100%; text-align: left;">📫 <strong>How to reach me:</strong></span>
     <a href="https://emiraydin.me/contact" target="_blank" style="width: 55%; display: block;">
       <img src="https://img.shields.io/badge/＿＿Contact＿＿-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white&labelWidth=100" alt="Contact" style="width: 100%;">
     </a>
