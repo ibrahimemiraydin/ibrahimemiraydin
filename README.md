@@ -2,8 +2,6 @@
 
 ### <h3 align="center">🚀 Current Focus</h3>
 
-##
-
 ### 🔭 I’m currently working on [Game Development](https://www.emiraydin.me/blog)
 
 ### 👨‍💻 All of my projects are available at here with details: [**Emir Aydın**](https://www.emiraydin.me/projects)
