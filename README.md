@@ -6,41 +6,51 @@
 
 ## 🔥 Current Focus
 
-<div style="width: 100%; max-width: 900px; margin: 0 auto; display: flex; flex-wrap: wrap; justify-content: center; gap: 12px;">
+<div style="width: 30%; max-width: 800px; margin: 0 auto;">
 
-  <!-- Satır 1: 3 buton -->
-  <a href="https://www.emiraydin.me" target="_blank" style="flex: 1 1 calc(33.33% - 12px); min-width: 250px;">
-    <img src="https://img.shields.io/badge/Website-FF7139?style=for-the-badge&logo=google-chrome&logoColor=white&labelWidth=150" alt="My Website" style="width: 100%;">
-  </a>
+  <div style="margin: 16px 0;">
+    <a href="https://www.emiraydin.me" target="_blank" style="width: 100%; display: block;">
+      <img src="https://img.shields.io/badge/My Website-FF7139?style=for-the-badge&logo=google-chrome&logoColor=white&labelWidth=150" alt="My Website" style="width: 100%;">
+    </a>
+  </div>
 
-  <a href="https://www.emiraydin.me/projects" target="_blank" style="flex: 1 1 calc(33.33% - 12px); min-width: 250px;">
-    <img src="https://img.shields.io/badge/Projects-2EA44F?style=for-the-badge&logo=github&logoColor=white&labelWidth=150" alt="Projects" style="width: 100%;">
-  </a>
+  <div style="margin: 16px 0;">
+    <a href="https://www.emiraydin.me/projects" target="_blank" style="width: 100%; display: block;">
+      <img src="https://img.shields.io/badge/Projects-2EA44F?style=for-the-badge&logo=github&logoColor=white&labelWidth=150" alt="Projects" style="width: 100%;">
+    </a>
+  </div>
 
-  <a href="https://www.emiraydin.me/blog" target="_blank" style="flex: 1 1 calc(33.33% - 12px); min-width: 250px;">
-    <img src="https://img.shields.io/badge/Blog-239120?style=for-the-badge&logo=hashnode&logoColor=white&labelWidth=150" alt="Blog" style="width: 100%;">
-  </a>
+  <div style="margin: 16px 0;">
+    <a href="https://www.emiraydin.me/blog" target="_blank" style="width: 100%; display: block;">
+      <img src="https://img.shields.io/badge/Blog-239120?style=for-the-badge&logo=hashnode&logoColor=white&labelWidth=150" alt="Blog" style="width: 100%;">
+    </a>
+  </div>
 
-  <!-- Satır 2: 3 buton -->
-  <a href="https://www.emiraydin.me/contact" target="_blank" style="flex: 1 1 calc(33.33% - 12px); min-width: 250px;">
-    <img src="https://img.shields.io/badge/Contact-4285F4?style=for-the-badge&logo=gmail&logoColor=white&labelWidth=150" alt="Contact" style="width: 100%;">
-  </a>
+  <div style="margin: 16px 0;">
+    <a href="https://www.emiraydin.me/contact" target="_blank" style="width: 100%; display: block;">
+      <img src="https://img.shields.io/badge/Contact-4285F4?style=for-the-badge&logo=gmail&logoColor=white&labelWidth=150" alt="Contact" style="width: 100%;">
+    </a>
+  </div>
 
-  <a href="https://www.youtube.com/@EmirAyd%C4%B1nYT" target="_blank" style="flex: 1 1 calc(33.33% - 12px); min-width: 250px;">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelWidth=150" alt="YouTube" style="width: 100%;">
-  </a>
+  <div style="margin: 16px 0;">
+    <a href="https://www.youtube.com/@EmirAyd%C4%B1nYT" target="_blank" style="width: 100%; display: block;">
+      <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelWidth=150" alt="YouTube" style="width: 100%;">
+    </a>
+  </div>
 
-  <a href="https://discord.com/invite/DGqypeK5WR" target="_blank" style="flex: 1 1 calc(33.33% - 12px); min-width: 250px;">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelWidth=150" alt="Discord" style="width: 100%;">
-  </a>
+  <div style="margin: 16px 0;">
+    <a href="https://discord.com/invite/DGqypeK5WR" target="_blank" style="width: 100%; display: block;">
+      <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelWidth=150" alt="Discord" style="width: 100%;">
+    </a>
+  </div>
 
-  <!-- Satır 3: Kalan 1 buton -->
-  <a href="https://donate.bynogame.com/emiraydin" target="_blank" style="flex: 1 1 calc(33.33% - 12px); min-width: 250px;">
-    <img src="https://img.shields.io/badge/Donate-F9A825?style=for-the-badge&logo=buymeacoffee&logoColor=white&labelWidth=150" alt="Donate" style="width: 100%;">
-  </a>
+  <div style="margin: 16px 0;">
+    <a href="https://donate.bynogame.com/emiraydin" target="_blank" style="width: 100%; display: block;">
+      <img src="https://img.shields.io/badge/Donate-F9A825?style=for-the-badge&logo=buymeacoffee&logoColor=white&labelWidth=150" alt="Donate" style="width: 100%;">
+    </a>
+  </div>
 
 </div>
-
 
 
 
