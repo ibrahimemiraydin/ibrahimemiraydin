@@ -2,24 +2,14 @@
 
 ###
 
-<table>
-  <tr>
-    <td><strong>🔭 Working on</strong></td>
-    <td><a href="https://www.emiraydin.me/blog">Game Development</a></td>
-  </tr>
-  <tr>
-    <td><strong>👨‍💻 Projects</strong></td>
-    <td><a href="https://www.emiraydin.me/projects">Emir Aydın</a></td>
-  </tr>
-  <tr>
-    <td><strong>🌱 Learning</strong></td>
-    <td><a href="https://learn.microsoft.com/en-us/dotnet/csharp/">C#</a></td>
-  </tr>
-  <tr>
-    <td><strong>📫 Contact</strong></td>
-    <td><a href="https://emiraydin.me/contact">Contact Page</a></td>
-  </tr>
-</table>
+ 🔭 I’m currently working on [Game Development](https://www.emiraydin.me/blog)
+
+ 👨‍💻 All of my projects are available at here with details. [**Emir Aydın**](https://www.emiraydin.me/projects)
+
+ 🌱 I’m currently learning [C#](https://learn.microsoft.com/en-us/dotnet/csharp/)
+
+ 📫 How to reach me [Contact](https://emiraydin.me/contact)
+</h3>
 
 
 <h2></h2>
