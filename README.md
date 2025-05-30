@@ -2,36 +2,72 @@
 
 # Hi, I'm Emir Aydın 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=38BCF7&center=true&width=500&lines=Professional+Game+Developer;Unreal+%26+Unity+Specialist;Full-Stack+Game+Programmer)](https://emiraydin.me)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=38BCF7&center=true&width=500&lines=Professional+Game+Developer;Unreal+%26+Unity+Specialist;Full-Stack+Game+Programmer)](https://git.io/typing-svg)
 
 ## 🔥 Current Focus
 
-<div style="width: 60%; max-width: 800px; margin: 0 auto;">
-  <div style="display: flex; justify-content: space-between; align-items: center; margin: 12px 0;">
+<div style="width: 80%; max-width: 800px; margin: 0 auto;">
+  <!-- Özel Buton Stili -->
+  <style>
+    .custom-btn {
+      height: 28px !important;
+      min-width: 200px;
+      display: flex !important;
+      align-items: center;
+      position: relative;
+    }
+    .custom-btn img {
+      position: absolute;
+      left: 8px;
+      top: 50%;
+      transform: translateY(-50%);
+      width: 16px;
+      height: 16px;
+    }
+    .custom-btn span {
+      width: 100%;
+      text-align: center;
+      padding-left: 24px; /* İkon için boşluk */
+    }
+  </style>
+
+  <div style="display: flex; justify-content: space-between; align-items: center; margin: 15px 0;">
     <span style="width: 40%; text-align: left;">🔭 <strong>Currently working on:</strong></span>
-    <a href="https://www.emiraydin.me/blog" target="_blank" style="width: 55%; display: block;">
-      <img src="https://img.shields.io/badge/＿＿Game_Development＿＿-FF7139?style=for-the-badge&logo=unity&logoColor=white&labelWidth=100" alt="Game Development" style="width: 100%;">
+    <a href="https://www.emiraydin.me/blog" target="_blank" style="width: 55%; text-decoration: none;">
+      <div class="custom-btn" style="background-color: #FF7139; color: white; border-radius: 6px; padding: 0 12px;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" alt="Unity">
+        <span>Game Development</span>
+      </div>
     </a>
   </div>
   
-  <div style="display: flex; justify-content: space-between; align-items: center; margin: 12px 0;">
+  <div style="display: flex; justify-content: space-between; align-items: center; margin: 15px 0;">
     <span style="width: 40%; text-align: left;">👨‍💻 <strong>All my projects:</strong></span>
-    <a href="https://www.emiraydin.me/projects" target="_blank" style="width: 55%; display: block;">
-      <img src="https://img.shields.io/badge/＿＿Portfolio＿＿-2EA44F?style=for-the-badge&logo=github&logoColor=white&labelWidth=100" alt="Portfolio" style="width: 100%;">
+    <a href="https://www.emiraydin.me/projects" target="_blank" style="width: 55%; text-decoration: none;">
+      <div class="custom-btn" style="background-color: #2EA44F; color: white; border-radius: 6px; padding: 0 12px;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub">
+        <span>Portfolio</span>
+      </div>
     </a>
   </div>
   
-  <div style="display: flex; justify-content: space-between; align-items: center; margin: 12px 0;">
+  <div style="display: flex; justify-content: space-between; align-items: center; margin: 15px 0;">
     <span style="width: 40%; text-align: left;">🌱 <strong>Currently learning:</strong></span>
-    <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" style="width: 55%; display: block;">
-      <img src="https://img.shields.io/badge/＿＿Advanced_C%23＿＿-239120?style=for-the-badge&logo=c-sharp&logoColor=white&labelWidth=100" alt="C#" style="width: 100%;">
+    <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" style="width: 55%; text-decoration: none;">
+      <div class="custom-btn" style="background-color: #239120; color: white; border-radius: 6px; padding: 0 12px;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#">
+        <span>Advanced C#</span>
+      </div>
     </a>
   </div>
   
-  <div style="display: flex; justify-content: space-between; align-items: center; margin: 12px 0;">
+  <div style="display: flex; justify-content: space-between; align-items: center; margin: 15px 0;">
     <span style="width: 40%; text-align: left;">📫 <strong>How to reach me:</strong></span>
-    <a href="https://emiraydin.me/contact" target="_blank" style="width: 55%; display: block;">
-      <img src="https://img.shields.io/badge/＿＿Contact＿＿-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white&labelWidth=100" alt="Contact" style="width: 100%;">
+    <a href="https://emiraydin.me/contact" target="_blank" style="width: 55%; text-decoration: none;">
+      <div class="custom-btn" style="background-color: #4285F4; color: white; border-radius: 6px; padding: 0 12px;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/chrome/chrome-original.svg" alt="Contact">
+        <span>Contact</span>
+      </div>
     </a>
   </div>
 </div>
