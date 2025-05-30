@@ -1,4 +1,4 @@
-# Hi, I'm Emir Aydın 👋
+# <h3 align="center"> Emir Aydın </h3>
 
 ###
 
