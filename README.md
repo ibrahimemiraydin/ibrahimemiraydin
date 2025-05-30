@@ -7,39 +7,27 @@
 ## 🔥 Current Focus
 
 <div style="width: 60%; max-width: 800px; margin: 0 auto;">
-  <!-- Sabit yükseklik için CSS -->
-  <style>
-    .uniform-height-btn {
-      height: 32px !important;
-      display: inline-block !important;
-    }
-  </style>
+  <div style="margin: 16px 0;">
+    <a href="https://www.emiraydin.me" target="_blank" style="width: 100%; display: block;">
+      <img src="https://img.shields.io/badge/My Website-FF7139?style=for-the-badge&logo=google-chrome&logoColor=white&labelWidth=150" alt="My Website" style="width: 100%;">
+    </a>
+  </div>
 
-  <div style="display: flex; justify-content: space-between; align-items: center; margin: 12px 0;">
-    <span style="width: 100%; text-align: left;">🔭 <strong>Currently working on:</strong></span>
-    <a href="https://www.emiraydin.me/blog" target="_blank" style="width: 55%; display: block;">
-      <img class="uniform-height-btn" src="https://img.shields.io/badge/My_Website-FF7139?style=for-the-badge&logo=unity&logoColor=white" alt="Emir Aydın Website" style="width: 100%;">
+  <div style="margin: 16px 0;">
+    <a href="https://www.emiraydin.me/projects" target="_blank" style="width: 100%; display: block;">
+      <img src="https://img.shields.io/badge/Projects-2EA44F?style=for-the-badge&logo=github&logoColor=white&labelWidth=150" alt="Projects" style="width: 100%;">
     </a>
   </div>
-  
-  <div style="display: flex; justify-content: space-between; align-items: center; margin: 12px 0;">
-    <span style="width: 100%; text-align: left;">👨‍💻 <strong>All my projects:</strong></span>
-    <a href="https://www.emiraydin.me/projects" target="_blank" style="width: 55%; display: block;">
-      <img class="uniform-height-btn" src="https://img.shields.io/badge/Projects-2EA44F?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" style="width: 100%;">
+
+  <div style="margin: 16px 0;">
+    <a href="https://www.emiraydin.me/blog" target="_blank" style="width: 100%; display: block;">
+      <img src="https://img.shields.io/badge/Blog-239120?style=for-the-badge&logo=hashnode&logoColor=white&labelWidth=150" alt="Blog" style="width: 100%;">
     </a>
   </div>
-  
-  <div style="display: flex; justify-content: space-between; align-items: center; margin: 12px 0;">
-    <span style="width: 100%; text-align: left;">🌱 <strong>Currently learning:</strong></span>
-    <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" style="width: 55%; display: block;">
-      <img class="uniform-height-btn" src="https://img.shields.io/badge/Advanced_C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" style="width: 100%;">
-    </a>
-  </div>
-  
-  <div style="display: flex; justify-content: space-between; align-items: center; margin: 12px 0;">
-    <span style="width: 100%; text-align: left;">📫 <strong>How to reach me:</strong></span>
-    <a href="https://emiraydin.me/contact" target="_blank" style="width: 55%; display: block;">
-      <img class="uniform-height-btn" src="https://img.shields.io/badge/Contact-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Contact" style="width: 100%;">
+
+  <div style="margin: 16px 0;">
+    <a href="https://www.emiraydin.me/contact" target="_blank" style="width: 100%; display: block;">
+      <img src="https://img.shields.io/badge/Contact-4285F4?style=for-the-badge&logo=gmail&logoColor=white&labelWidth=150" alt="Contact" style="width: 100%;">
     </a>
   </div>
 </div>
