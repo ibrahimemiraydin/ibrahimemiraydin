@@ -2,7 +2,7 @@
 
 # Hi, I'm Emir Aydın 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=38BCF7&center=true&width=500&lines=Professional+Game+Developer;Unreal+%26+Unity+Specialist;Full-Stack+Game+Programmer)](https://emiraydin.me)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=38BCF7&center=true&width=500&lines=Game+Developer;Unreal+Engine+5+%26+Unity+Specialist;Full-Stack+Game+Programmer)](https://emiraydin.me)
 
 ## 🚀 Quick Access
 
@@ -11,16 +11,16 @@
   <!-- Üst Sıra - 4 Buton -->
   <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 12px; margin-bottom: 20px;">
     <a href="https://www.emiraydin.me" target="_blank">
-      <img src="https://img.shields.io/badge/My%20Website-FF7139?style=for-the-badge&logo=google-chrome&logoColor=white" />
+      <img src="https://img.shields.io/badge/My%20Website-FF7139?style=for-the-badge&logo=nebula&logoColor=white" />
     </a>
     <a href="https://www.emiraydin.me/projects" target="_blank">
-      <img src="https://img.shields.io/badge/Projects-2EA44F?style=for-the-badge&logo=github&logoColor=white" />
+      <img src="https://img.shields.io/badge/Projects-2EA44F?style=for-the-badge&logo=accenture&logoColor=white" />
     </a>
     <a href="https://www.emiraydin.me/blog" target="_blank">
-      <img src="https://img.shields.io/badge/Blog-239120?style=for-the-badge&logo=hashnode&logoColor=white" />
+      <img src="https://img.shields.io/badge/Blog-239120?style=for-the-badge&logo=bricks&logoColor=white" />
     </a>
     <a href="https://www.emiraydin.me/contact" target="_blank">
-      <img src="https://img.shields.io/badge/Contact-4285F4?style=for-the-badge&logo=gmail&logoColor=white" />
+      <img src="https://img.shields.io/badge/Contact-4285F4?style=for-the-badge&logo=minutemailer&logoColor=white" />
     </a>
   </div>
 
@@ -44,8 +44,22 @@
 
 ## 🛠️ Tech Stack
 
-<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 15px;">
-  <img src="https://skillicons.dev/icons?i=unreal,unity,blender,cs,javascript,typescript,nextjs,visualstudio,vscode,py" />
+
+
+<!-- Kapsayıcı -->
+<div align="center">
+
+  <!-- 1. Satır: Game Engines -->
+  <img src="https://skillicons.dev/icons?i=unreal,unity" alt="Game Engines" />
+
+  <!-- 3. Satır: Tools -->
+  <img src="https://skillicons.dev/icons?i=blender,react,nextjs" alt="Tools & Frameworks" />
+
+  <!-- 2. Satır: Languages -->
+  <img src="https://skillicons.dev/icons?i=cs,cpp,py,javascript,typescript" alt="Programming Languages" />
+
+
+
 </div>
 
 ## 📊 GitHub Analytics
