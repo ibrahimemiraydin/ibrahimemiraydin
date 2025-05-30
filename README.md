@@ -1,24 +1,25 @@
 <h1 align="center">Hi, I'm Emir from Türkiye 👋</h1>
 
-<a href="https://www.emiraydin.me/projects">
-  <img src="https://img.shields.io/badge/View%20Projects-222?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
 ###
 
-## 🚀 About Me
-
-🔭 I’m currently working on [**Game Development**](https://www.emiraydin.me/blog)
-
-👨‍💻 See all my projects:  
-[![View Projects](https://img.shields.io/badge/View%20Projects-1a1a1a?style=for-the-badge&logo=github&logoColor=white)](https://www.emiraydin.me/projects)
-
-🌱 I’m currently learning [**C#**](https://learn.microsoft.com/en-us/dotnet/csharp/)
-
-📫 Contact me:  
-[![Contact](https://img.shields.io/badge/Contact-0078D4?style=for-the-badge&logo=gmail&logoColor=white)](https://emiraydin.me/contact)
-
-
+<table>
+  <tr>
+    <td><strong>🔭 Working on</strong></td>
+    <td><a href="https://www.emiraydin.me/blog">Game Development</a></td>
+  </tr>
+  <tr>
+    <td><strong>👨‍💻 Projects</strong></td>
+    <td><a href="https://www.emiraydin.me/projects">Emir Aydın</a></td>
+  </tr>
+  <tr>
+    <td><strong>🌱 Learning</strong></td>
+    <td><a href="https://learn.microsoft.com/en-us/dotnet/csharp/">C#</a></td>
+  </tr>
+  <tr>
+    <td><strong>📫 Contact</strong></td>
+    <td><a href="https://emiraydin.me/contact">Contact Page</a></td>
+  </tr>
+</table>
 
 
 <h2></h2>
