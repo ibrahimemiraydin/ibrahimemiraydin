@@ -1,17 +1,23 @@
 <h1 align="center">Hi, I'm Emir from Türkiye 👋</h1>
+
 <a href="https://www.emiraydin.me/projects">
   <img src="https://img.shields.io/badge/View%20Projects-222?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 ###
 
-### 🔭 I’m currently working on [Game Development](https://www.emiraydin.me/blog)
+## 🚀 About Me
 
-### 👨‍💻 All of my projects are available at here with details: [**Emir Aydın**](https://www.emiraydin.me/projects)
+🔭 I’m currently working on [**Game Development**](https://www.emiraydin.me/blog)
 
-### 🌱 I’m currently learning [C#](https://learn.microsoft.com/en-us/dotnet/csharp/)
+👨‍💻 See all my projects:  
+[![View Projects](https://img.shields.io/badge/View%20Projects-1a1a1a?style=for-the-badge&logo=github&logoColor=white)](https://www.emiraydin.me/projects)
 
-### 📫 How to reach me: [Contact](https://emiraydin.me/contact)
+🌱 I’m currently learning [**C#**](https://learn.microsoft.com/en-us/dotnet/csharp/)
+
+📫 Contact me:  
+[![Contact](https://img.shields.io/badge/Contact-0078D4?style=for-the-badge&logo=gmail&logoColor=white)](https://emiraydin.me/contact)
+
 
 
 
