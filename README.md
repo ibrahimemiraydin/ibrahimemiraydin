@@ -1,4 +1,7 @@
 <h1 align="center">Hi, I'm Emir from Türkiye 👋</h1>
+<a href="https://www.emiraydin.me/projects">
+  <img src="https://img.shields.io/badge/View%20Projects-222?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 ###
 
@@ -10,9 +13,7 @@
 
 ### 📫 How to reach me: [Contact](https://emiraydin.me/contact)
 
-<a href="https://www.emiraydin.me/projects">
-  <img src="https://img.shields.io/badge/View%20Projects-222?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+
 
 <h2></h2>
 
