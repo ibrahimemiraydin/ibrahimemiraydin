@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Emir from Türkiye 👋</h1>
+# Hi, I'm Emir Aydın 👋
 
 ###
 
