@@ -16,9 +16,6 @@
     <a href="https://www.emiraydin.me/projects" target="_blank">
       <img src="https://img.shields.io/badge/Projects-2EA44F?style=for-the-badge&logo=accenture&logoColor=white" />
     </a>
-    <a href="https://www.emiraydin.me/blog" target="_blank">
-      <img src="https://img.shields.io/badge/Blog-239120?style=for-the-badge&logo=bricks&logoColor=white" />
-    </a>
     <a href="https://www.emiraydin.me/contact" target="_blank">
       <img src="https://img.shields.io/badge/Contact-4285F4?style=for-the-badge&logo=minutemailer&logoColor=white" />
     </a>
